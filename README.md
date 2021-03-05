@@ -1,2 +1,3 @@
 # Graduation-portfolio
-cardiovascular disease prediction model
+
+Development of artificial intelligence cardiovascular disease prediction model for the elderly
